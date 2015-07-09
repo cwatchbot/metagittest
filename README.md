@@ -1,3 +1,3 @@
 # metagittest
 
-The best tool
+The best tool for
