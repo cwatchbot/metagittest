@@ -1,3 +1,3 @@
 # metagittest
 
-The best tool for inserting
+The best tool for inserting git
